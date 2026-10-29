@@ -96,12 +96,12 @@ y los requisitos del reto.
 Empezamos explorando las tablas de personajes, pociones y hechizos:
 revisamos sus columnas, tipos de datos, valores ausentes y duplicados.
 
-👉 [Explorar los datos paso a paso](fase_1_conoce_tus_datos.ipynb)
+👉 [Explorar los datos paso a paso](Fase1_Conocer_los_datos.ipynb)
 
 Después, interpretamos los resultados y respondemos las preguntas
 de esta primera fase.
 
-👉 [Consultar las respuestas y conclusiones iniciales](fase_1_respuestas_y_conclusiones.ipynb)
+👉 [Consultar las respuestas y conclusiones iniciales](Fase1_Conclusiones_Respuestas.ipynb)
 
 
 
