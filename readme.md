@@ -122,7 +122,13 @@ y las limitaciones de cada análisis.
 
 
 ### 📊 Fase 3. Visualiza tus descubrimientos
+### Fase 3. Visualiza tus descubrimientos
 
+Representamos nuestros hallazgos con gráficos de barras, un gráfico
+circular y barras apiladas. Cada visualización incluye el código,
+la explicación de los métodos y la interpretación de los resultados.
+
+👉 [Explorar los gráficos y sus conclusiones](Fase3_Visualizaciones.ipynb)
 
 ### 🎯 Fase 4. Saca tus conclusiones
 
