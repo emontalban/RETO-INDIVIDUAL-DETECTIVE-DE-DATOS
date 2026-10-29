@@ -133,6 +133,13 @@ la explicación de los métodos y la interpretación de los resultados.
 ### 🎯 Fase 4. Saca tus conclusiones
 
 
+Recogemos los principales descubrimientos, interpretamos los patrones
+encontrados y explicamos las limitaciones del análisis. También
+planteamos posibles aplicaciones y nuevas preguntas para profundizar
+en los datos que todavía no hemos explorado.
+
+👉 [Leer las conclusiones y las futuras líneas de investigación](Fase4_Conclusiones.ipynb)
+
 
 ### 💡 Fase 5. Reflexiona sobre tu aprendizaje
 
