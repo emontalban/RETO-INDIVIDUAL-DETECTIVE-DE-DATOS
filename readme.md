@@ -1,4 +1,4 @@
-# Reto individual: detective de datos
+# Reto individual: detective de datos 🕵️‍♂️
 
 ## Análisis exploratorio del universo de Harry Potter
 
@@ -91,7 +91,7 @@ y los requisitos del reto.
 
 👉 [Leer las instrucciones del proyecto](instrucciones_de_reto.md)
 
-### Fase 1. Conoce tus datos
+###  📋 Fase 1. Conoce tus datos
 
 Empezamos explorando las tablas de personajes, pociones y hechizos:
 revisamos sus columnas, tipos de datos, valores ausentes y duplicados.
@@ -106,26 +106,37 @@ de esta primera fase.
 
 
 
-### Fase 2. Investiga y haz preguntas
+###  🔍 Fase 2. Investiga y haz preguntas
+
+Investigamos qué casas tienen más personajes, cómo se distribuyen
+por género y especie, qué tipos de hechizos aparecen con mayor
+frecuencia y qué dificultades tienen las pociones.
+
+👉 [Investigar los datos paso a paso](Fase2_Investiga.ipynb)
+
+Interpretamos los resultados y explicamos las decisiones de limpieza
+y las limitaciones de cada análisis.
+
+👉 [Consultar las respuestas y conclusiones de la fase 2](Fase2_Conclusiones_Respuestas.ipynb)
 
 
 
-### Fase 3. Visualiza tus descubrimientos
+### 📊 Fase 3. Visualiza tus descubrimientos
 
 
-### Fase 4. Saca tus conclusiones
-
-
-
-### Fase 5. Reflexiona sobre tu aprendizaje
+### 🎯 Fase 4. Saca tus conclusiones
 
 
 
-### Tu misión está cumplida cuando…
+### 💡 Fase 5. Reflexiona sobre tu aprendizaje
 
-- [x] Has explorado el dataset: fase 1 sobre tres tablas.
-- [ ] Has formulado al menos 3 preguntas definitivas de investigación.
-- [ ] Has realizado el análisis de esas preguntas utilizando pandas.
-- [ ] Has creado al menos 3 gráficos.
-- [ ] Has escrito las conclusiones finales.
-- [ ] Has completado la reflexión de autoaprendizaje.
+
+
+### 📋 Tu misión está cumplida cuando…
+
+- ✅ Has explorado el dataset: fase 1 sobre tres tablas.
+- ✅ Has formulado al menos 3 preguntas definitivas de investigación.
+- ✅ Has realizado el análisis de esas preguntas utilizando pandas.
+- ✅ Has creado al menos 3 gráficos.
+- ✅ Has escrito las conclusiones finales.
+- ✅ Has completado la reflexión de autoaprendizaje.
